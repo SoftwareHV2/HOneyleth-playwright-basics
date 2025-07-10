@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/blob-report/
+/playwright/.cache/
+/test-screenshots/
+/playwright-report/
+/screenshots/
+.env
+.auth
+topics.txt
